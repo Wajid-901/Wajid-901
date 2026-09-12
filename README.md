@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-**Wajid-901/Wajid-901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi, I'm Abdul Wajid 👋
 
 Final-year B.Tech CSE student building full-stack web applications with

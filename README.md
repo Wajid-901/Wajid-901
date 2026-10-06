@@ -45,5 +45,4 @@ Job application tracker with a dashboard, analytics, and calendar, deployed on V
 
 ## Currently
 
-- Sharpening data structures & algorithms and backend system design
 - Looking for roles where I can keep building things end to end
